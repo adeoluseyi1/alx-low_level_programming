@@ -1,6 +1,7 @@
 #include <stdio.h>
-/*
-*outline puts with a forward slash
+/**
+*main - entry point
+*Return; 0 (success)
 */
 int main(void)
 {
