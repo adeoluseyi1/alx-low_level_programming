@@ -5,9 +5,9 @@
 * Return:always 0
 */
 
-int main(void) {
+int main(void) 
+{
 	char b = 'b';
-	
 	while (b <= 'z') {
 		if (b != 'q' && b != 'e') {
 		putchar(b);
