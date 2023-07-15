@@ -5,13 +5,14 @@
 * Return:always 0
 */
 
-int main(void) 
+int main(void)
 {
 	char b = 'a';
-	while (b <= 'z') {
-		if (b != 'q' && b != 'e') {
+	while (b <= 'z'){
+		if (b != 'q' && b != 'e') 
+	
 		putchar(b);
-	}
+	
 		b++;
 	}
 
