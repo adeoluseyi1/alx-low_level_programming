@@ -1,9 +1,8 @@
 #include <stdio.h>
-#include "main.h"
 #include <stdlib.h>
 
 /**
- * _atoi - converts a string to an integer
+ * main - describe the main function
  * @argc: string to be converted
  * @argv:command.
  * Return: the int converted from the string
